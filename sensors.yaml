@@ -1,0 +1,5 @@
+  - platform: yr
+  - platform: fastdotcom
+    minute:
+      - 0
+      - 5

@@ -1,0 +1,12 @@
+  - platform: tplink
+    host: 192.168.1.190
+    name: Dilbert
+    enable_leds: false
+  - platform: tplink
+    host: 192.168.1.191
+    name: Gerturde
+    enable_leds: false
+  - platform: tplink
+    host: 192.168.1.192
+    name: Shaniqua
+    enable_leds: false

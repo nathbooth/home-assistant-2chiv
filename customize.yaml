@@ -1,0 +1,26 @@
+sensor.2_chivington_close_eta:
+  hidden: true
+sensor.dining_room_thermostat_hvac_state:
+  hidden: true
+sensor.dining_room_thermostat_operation_mode:
+  hidden: true
+sensor.office_nest_protect_battery_health:
+  hidden: true
+sensor.office_nest_protect_co_status:
+  hidden: true
+sensor.office_nest_protect_smoke_status:
+  hidden: true
+binary_sensor.2_chivington_close_away:
+  hidden: true
+binary_sensor.dining_room_thermostat_fan:
+  hidden: true
+binary_sensor.dining_room_thermostat_has_leaf:
+  hidden: true
+binary_sensor.dining_room_thermostat_is_locked:
+  hidden: true
+binary_sensor.dining_room_thermostat_is_using_emergency_heat:
+  hidden: true
+binary_sensor.dining_room_thermostat_online:
+  hidden: true
+binary_sensor.office_nest_protect_online:
+  hidden: true
